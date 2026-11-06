@@ -100,7 +100,13 @@ If you use this code, cite the associated manuscript **[ADD MANUSCRIPT CITATION]
 
 ## License
 
-**[ADD LICENSE FILE AND UPDATE THIS SECTION]**. Until a license is added, public availability on GitHub does not automatically grant permission to reuse or redistribute the code.
+## License
+
+This repository is licensed under the MIT License. The analysis scripts are freely available for use, modification, and distribution, provided that the original copyright and license notice are retained.
+
+See the [LICENSE](LICENSE) file for the full license text.
+
+If you use these scripts in your research, please cite the associated publication and this repository.
 
 ## Contact
 
