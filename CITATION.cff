@@ -1,0 +1,27 @@
+
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived software release and associated manuscript when available."
+type: software
+
+title: "Analysis scripts for fungal communities associated with sympatric Lepanthes orchids"
+
+authors:
+  - family-names: "Tuczapski"
+    given-names: "Piotr"
+
+
+# repository-code: "https://github.com/ptuczapski/Lepanthes-mycorrhizal-communities/"
+# version: "1.0.0"
+# date-released: "YYYY-MM-DD"
+# doi: "10.5281/XXXXXXX"
+
+keywords:
+  - Lepanthes
+  - orchid mycorrhiza
+  - fungal communities
+  - metabarcoding
+  - PacBio
+  - bioinformatics
+
+# license: MIT
+# Uncomment only after adding an MIT LICENSE file.
