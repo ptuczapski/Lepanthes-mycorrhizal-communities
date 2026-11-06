@@ -96,9 +96,7 @@ These scripts are intended to document the analyses performed for the associated
 
 ## Citation
 
-If you use this code, cite the associated manuscript **[ADD MANUSCRIPT CITATION]** and the archived software release **[ADD DOI WHEN AVAILABLE]**. See (CITATION.cff) for machine-readable citation metadata.
-
-## License
+If you use this code, cite the associated manuscript **[ADD MANUSCRIPT CITATION]** and the archived software release **[ADD DOI WHEN AVAILABLE]**. See [CITATION](CITATION.cff) for machine-readable citation metadata.
 
 ## License
 
